@@ -1,0 +1,8 @@
+{
+  "name": "Street Fighter 2D Arcade",
+  "description": "Retro 2D arcade fighting game with dynamic hitboxes, AI opponent, responsive mobile controls, and synthesized audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
